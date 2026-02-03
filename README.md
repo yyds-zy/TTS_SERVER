@@ -222,6 +222,5 @@ MIT License
 
 ## 相关项目
 
-- 原始项目: AsLive TTS 服务
 - 模型: Kokoro ONNX
 - G2P: Misaki
