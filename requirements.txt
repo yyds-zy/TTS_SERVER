@@ -1,0 +1,8 @@
+kokoro-onnx
+misaki
+fastapi>=0.104.0
+uvicorn>=0.24.0
+soundfile>=0.12.1
+numpy>=1.24.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
